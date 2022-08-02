@@ -1,6 +1,6 @@
 # GOOGLE ANALYTICS
 
-"Google Analytics 4 property: Google Merchandise Store (web data)"
+Google Analytics 4 property: Google Merchandise Store (web data)
 
 ### 2.2. Commencer les analyses
 
